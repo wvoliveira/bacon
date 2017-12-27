@@ -1,5 +1,7 @@
 [![build status](http://gitlab.devel/wellingtonoliveira/backupon/badges/master/build.svg)](https://travis-ci.org/wvoliveira/backupon)
-# Backupon 
+
+Backupon
+--------
 
 Faz o backup de arquivos e diretórios de servidores se baseando no arquivo de configuração.  
 
