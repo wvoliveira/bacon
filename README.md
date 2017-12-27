@@ -1,4 +1,4 @@
-[![build status](http://gitlab.devel/wellingtonoliveira/backupon/badges/master/build.svg)](https://travis-ci.org/wvoliveira/backupon)
+[![build status](https://travis-ci.org/wvoliveira/backupon.svg?branch=master)](https://travis-ci.org/wvoliveira/backupon)
 
 Backupon
 --------
