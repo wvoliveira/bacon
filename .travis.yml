@@ -4,4 +4,4 @@ python:
   - "3.5"
   - "3.6"
 script:
-  - python3 install -U .
+  - pip3 install -U .
